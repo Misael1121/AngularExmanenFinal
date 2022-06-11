@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'CI-CD ESTA ACTIVO EN AngularExamenFinalUMG';
+  title = 'CI-CD ESTA ACTIVO EN AngularExamenFinalUMG2022';
 }
